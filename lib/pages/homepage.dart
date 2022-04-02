@@ -85,7 +85,7 @@ class _HomePageState extends State<HomePage> {
 
           const SizedBox(height: 25),
 
-          //Search box
+          //Search box!
 
           Padding(
             padding: const EdgeInsets.symmetric(horizontal: 25.0),
